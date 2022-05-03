@@ -1,0 +1,5 @@
+1. test pick A
+A) test
+B) test
+C) test
+C:A-100

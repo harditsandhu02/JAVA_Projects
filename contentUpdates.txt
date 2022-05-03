@@ -1,0 +1,7 @@
+Teacher created a course!
+Teacher edited a course!
+Teacher created a quiz!
+Teacher edited their account
+Student took a quiz
+Student saw their grades
+Student saw their grades
